@@ -1,0 +1,28 @@
+name: JeffBridges
+favicon: null
+layout_spectrum: 0.8524837701115757
+typography_spectrum: 0.5246122968383133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2017432141583413
+  lightness: 0.4764296191278845
+  saturation: 0.7733981639612466
+  rhythmicContrast: 0.3198058265261352
+purpose: []
